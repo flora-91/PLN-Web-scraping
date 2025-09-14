@@ -1,4 +1,4 @@
-**Este trabajo corresponde a la materia Procesamiento de Lenguaje Natural de la Tecnicatura Superior en Ciencia de Datos**
+**Trabajo para Procesamiento de Lenguaje Natural de la Tecnicatura Superior en Ciencia de Datos**
 
 📘 *TP N.º 1 – Web Scraping*
 
